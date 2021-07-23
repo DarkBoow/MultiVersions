@@ -1,0 +1,5 @@
+name: SamplePlugin
+author: DarkBow_
+version: 1.0
+main: fr.darkbow_.sampleplugin.SamplePlugin
+api-version: 1.16
